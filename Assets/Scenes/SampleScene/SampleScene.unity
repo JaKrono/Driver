@@ -257,7 +257,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 965a4c3cf8f0acb408f15384c947b3fd, type: 2}
     - target: {fileID: 5400000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
       propertyPath: m_AngularDrag
-      value: 8
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 10800000, guid: 0e7ee4df08df88c4880f43398f9ad2c2, type: 3}
       propertyPath: m_Type
@@ -664,13 +664,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.113821805, y: -0.006045431, z: -0.0015687924, w: -0.9934816}
-  m_LocalPosition: {x: -0.065, y: 2.572, z: -5.554}
+  m_LocalRotation: {x: -0.07797447, y: -0.005984992, z: -0.0017854553, w: -0.99693584}
+  m_LocalPosition: {x: -0.084, y: 3.259, z: -6.989}
   m_LocalScale: {x: 0.1318199, y: 0.13181996, z: 0.1318199}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 147724207}
-  m_LocalEulerAnglesHint: {x: 13.07, y: -359.272, z: 0.264}
+  m_LocalEulerAnglesHint: {x: 8.943, y: -359.292, z: 0.261}
 --- !u!1001 &2051696678
 PrefabInstance:
   m_ObjectHideFlags: 0
